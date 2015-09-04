@@ -1,0 +1,291 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style-type: none;
+	
+	
+}
+.lay
+{
+	margin: 0 auto;
+	background-size: auto;
+    height: 990px;
+    
+    margin-left:250px;
+    margin-right: 250px;
+}
+
+header
+{
+	background: url("images/tooplate_top.png");
+	height: 50px;
+	width: 100%;
+	margin-top: 10px;
+
+}
+header p{
+	position: absolute;
+	top: 18px;
+	left: 850px;
+	color: silver;
+
+}
+img
+{
+	float: right;
+	margin-right: 30px;
+	margin-top: 8px;
+}
+nav
+{
+	
+	height: 60px;
+	width: 100%;
+	background-color:#352719;
+}
+nav #font
+{
+
+	width: 200px;
+	margin-left: 150px;
+}
+nav #menu
+{
+	float: right;
+	width: 390px;
+	margin-top: 10px;
+	height: 5px;
+	
+}
+nav #menu ul{
+
+}
+nav #menu ul li
+{
+	float: left;
+	margin-right: 10px;
+
+}
+nav #menu ul li a
+{
+	color: white;
+	float: right;
+	/*margin-right: 10px;*/
+	padding: 10px;
+border-right: 1 px solid blue;
+	text-align: center;
+
+}
+nav #menu ul li a:hover
+{
+	background:transparent  url("images/tooplate_menu_hover.png");
+	color: lime;
+}
+.content
+
+{
+	width: 100%;
+	height: 300px;
+	background: url("images/tooplate_mid.png");
+}
+#slide
+{
+	margin-left: 30px;
+}
+table
+{
+	margin-left: 70px;
+}
+
+#leftc
+{
+	
+	
+	height: 300px;
+	float:left;
+}
+.rightc
+{
+	margin-left: 560px;
+	float: right;height: 300px;
+	width: 400px;
+	margin-right: 20px;
+}
+#hdng
+{
+	margin-left: 450px;
+	font-family: sans-serif;
+	color: white;
+
+
+}
+
+#hdng p
+{
+	font-family: Brush Script MT;
+	
+	color: #B8A65C;
+	line-height: 1.5;
+	margin-right: 60px;
+	text-align: justify;
+	font-weight: 14;
+}
+#learn
+{
+	margin-top:30px;
+	
+	margin-right: 250px;
+}
+.bod
+{
+	background-color: silver;
+	margin-top: 120px;
+	height: 280px;
+}
+#frst
+{
+	
+	width: 250px;
+	
+	margin-right: 6px;
+	
+}
+#am
+{
+	float: left;
+	margin-right: 90px;
+}
+#second
+{
+	width: 250px;
+		margin-right: 6px;
+	
+	/*margin-left: 350px;*/
+}
+.bod #frst ul li 
+{
+	float: left;
+	padding: 0;
+	margin-right: 0;
+}
+#let
+{
+	color: #484848;
+}
+#second ul li
+{
+	float: left;
+	margin-top: 2px;
+}
+#third
+{
+	width: 250px;
+	
+	/*margin-left: 550px;*/
+}
+.bod ul li 
+{
+	float: left;
+	margin-left: 0;
+}
+#to
+{
+	float: left;
+	margin-left: 50px;
+}
+#fst
+{
+	
+	width: 250px;
+	
+		margin-right:6px;
+	
+	
+}
+.bod #fst ul li 
+{
+	float: left;
+	padding: 0;
+	margin-right: 0;
+}
+#sec
+{
+	width: 250px;
+		margin-right: 6px;
+	
+	/*margin-left: 350px;*/
+}
+#sec ul li
+{
+	float: left;
+	margin-top: 2px;
+}
+#thi
+{
+	width: 250px;
+	
+	/*margin-left: 550px;*/
+}
+.bot 
+{
+	width: 100%;
+	height: 270px;
+	
+	background-color: #30190E;
+}
+.bot ul li{
+	float: left;
+}
+.first
+{
+	width:29%;
+	margin-left:60px;
+	float:left;
+
+}
+.presen img{
+	float:left;
+}
+.etiam img
+{
+	float:left;
+}
+.second
+{
+	float:left;
+	width:29%;
+	margin-left:10px;
+}
+
+.partner
+{
+	float:left;
+	width:18%;
+	margin-left:42px;
+
+}
+.partner h2
+{
+	color: white;
+}
+.partner h5
+{
+	border-bottom: 1px dotted black;
+	color: grey;
+}
+.partner img{
+	float:left;
+	margin-right:3px;
+	width:25px;
+}
+#footer
+{
+	width:100%;
+	height:40px;
+	color:white;
+	
+	background-color:#191919;
+	text-align: center;
+}
